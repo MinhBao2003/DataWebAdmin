@@ -1,0 +1,177 @@
+{
+  "product": [
+    {
+      "Product'sname": "Điện thoại Samsung A33 5G 6GB/128GB Xanh",
+      "quantity": "30",
+      "price": "6.900.000đ",
+      "imageurl": "https://cdn.nguyenkimmall.com/images/thumbnails/600/336/detailed/796/10051579-dien-thoai-samsung-a33-5g-6gb-128gb-xanh-1.jpg",
+      "describe": "Bộ vi xử lý Exynos 1280 kết hợp RAM 6GB xử lý đa nhiệm các tác vụ nặng",
+      "describe1": "Bộ nhớ trong điện thoại 128GB thoả sức lưu trữ những khoảnh khắc quý giá",
+      "describe2": "IP67 cho khả năng chống nước và bụi cùng lớp bảo vệ bổ sung từ Gorilla Glass 5",
+      "describe3": "Mở rộng tầm nhìn của bạn lên màn hình Infinity-U 16,21cm trên Galaxy A33 5G",
+      "describe4": "Màn hình siêu mịn 90Hz cho hình ảnh với độ tương phản sống động",
+      "id": 1
+    },
+    {
+      "Product's name": "Samsung Galaxy S22 5G 128GB",
+      "quantity": "20",
+      "price": "11.990.000₫",
+      "imageurl": "https://fscl01.fonpit.de/devices/23/2223-w320h320.png",
+      "describe": "6.1 inch, Dynamic AMOLED 2X, FHD+, 1080 x 2340 Pixels",
+      "describe1": "50.0 MP + 12.0 MP + 10.0 MP",
+      "describe2": "Snapdragon 8 Gen 1",
+      "describe3": "128 GB",
+      "describe4": "10.0 MP",
+      "id": 2
+    }
+  ],
+  "Customer":
+  [
+    {
+      "id": 1,
+      "picture": "http://placehold.it/32x32",
+      "age": 23,
+      "name": "Karyn Wright",
+      "gender": "female",
+      "email": "karynwright@zolar.com",
+      "phone": "+1 (851) 583-2547"
+    },
+    {
+
+      "id": 2,
+      "picture": "http://placehold.it/32x32",
+      "age": 35,
+      "name": "Rochelle Estes",
+      "gender": "female",
+      "email": "rochelleestes@extrawear.com",
+      "phone": "+1 (849) 408-2029"
+    },
+    {
+      "picture": "http://placehold.it/32x32",
+      "age": 25,
+      "id": 3,
+      "name": "Mendoza Ruiz",
+      "gender": "male",
+      "email": "mendozaruiz@zytrax.com",
+      "phone": "+1 (904) 536-2020"
+    },
+    {
+      "id": 4,
+      "picture": "http://placehold.it/32x32",
+      "age": 39,
+      "name": "Rosales Russell",
+      "gender": "male",
+      "email": "rosalesrussell@elemantra.com",
+      "phone": "+1 (868) 473-3073"
+    },
+    {
+      "id": "5",
+      "picture": "http://placehold.it/32x32",
+      "age": 32,
+      "name": "Marquez Nolan",
+      "gender": "male",
+      "email": "marqueznolan@miraclis.com",
+      "phone": "+1 (853) 571-3921"
+    },
+    {
+      "id": "6",
+      "picture": "http://placehold.it/32x32",
+      "age": 28,
+      "name": "Franklin James",
+      "gender": "male",
+      "email": "franklinjames@caxt.com",
+      "phone": "+1 (868) 539-2984"
+    },
+    {
+      "id": 7,
+      "index": 8,
+      "picture": "http://placehold.it/32x32",
+      "age": 24,
+      "name": "Elsa Bradley",
+      "gender": "female",
+      "email": "elsabradley@matrixity.com",
+      "phone": "+1 (994) 583-3850"
+    },
+    {
+      "id": 8,
+      "picture": "http://placehold.it/32x32",
+      "age": 40,
+      "name": "Pearson Thompson",
+      "gender": "male",
+      "email": "pearsonthompson@ezent.com",
+      "phone": "+1 (917) 537-2178"
+    },
+    {
+      "id": 9,
+      "picture": "http://placehold.it/32x32",
+      "age": 32,
+      "name": "Ina Pugh",
+      "gender": "female",
+      "email": "inapugh@mantrix.com",
+      "phone": "+1 (917) 450-2372"
+    },
+    {
+      "id": 10,
+      "picture": "http://placehold.it/32x32",
+      "age": 25,
+      "name": "Nguyen Elliott",
+      "gender": "male",
+      "email": "nguyenelliott@portaline.com",
+      "phone": "+1 (905) 491-3377"
+    },
+    {
+      "id": 11,
+      "picture": "http://placehold.it/32x32",
+      "age": 31,
+      "name": "Mills Barnett",
+      "gender": "male",
+      "email": "millsbarnett@farmex.com",
+      "phone": "+1 (882) 462-3986"
+    },
+    {
+      "id":12,
+      "picture": "http://placehold.it/32x32",
+      "age": 36,
+      "name": "Margaret Reynolds",
+      "gender": "female",
+      "email": "margaretreynolds@rooforia.com",
+      "phone": "+1 (935) 435-2345"
+    },
+    {
+      "id": 13,
+      "picture": "http://placehold.it/32x32",
+      "age": 29,
+      "name": "Yvette Navarro",
+      "gender": "female",
+      "email": "yvettenavarro@kinetica.com",
+      "phone": "+1 (807) 485-3824"
+    },
+    {
+      "id": 14,
+      "picture": "http://placehold.it/32x32",
+      "age": 20,
+      "name": "Elisa Guzman",
+      "gender": "female",
+      "email": "elisaguzman@kage.com",
+      "phone": "+1 (868) 594-2919"
+    },
+    {
+      "id": 15,
+      "picture": "http://placehold.it/32x32",
+      "age": 33,
+      "name": "Jodie Bowman",
+      "gender": "female",
+      "email": "jodiebowman@emtrac.com",
+      "phone": "+1 (891) 565-2560"
+    },
+    {
+      "id": 16,
+      "picture": "http://placehold.it/32x32",
+      "age": 24,
+      "name": "Diann Booker",
+      "gender": "female",
+      "email": "diannbooker@lyria.com",
+      "phone": "+1 (830) 555-3209"
+    }
+  ]
+}
